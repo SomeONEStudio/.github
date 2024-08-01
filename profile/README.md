@@ -14,8 +14,11 @@ How many members we have?
 <h2> We have 3 members in total.</h2>
 
 
+
 >  ![somerui](/img/somerui.png#pic_center)
-> <h1>[somerui](https://github.com/somerui)</h1>
+>
+> <h1>somerui</h1>
+>
 > <p style="font-size:18px;">Team Co-founder</p>
 > <p style="font-size:14px;">Game director<br>Programmer<br></p>
 
@@ -29,7 +32,7 @@ How many members we have?
 ---
 
 >  ![FA](/img/fakeanzel.png)
-> <h1>[FAKE_ANZEK](https://github.com/fakeanzel)</h1>
+> <h1>FAKE_ANZEL</h1>
 > <p style="font-size:14px;">Music Director<br></p>
 
 
