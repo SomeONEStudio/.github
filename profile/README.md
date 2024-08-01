@@ -1,4 +1,4 @@
-![SomeONEStudioLogo](/img/sos.png)
+![SomeONEStudioLogo](./sos.png)
 <center><h2>We are SomeONE Studio,a indie-game development team.</center>
 
 What are we doing?
@@ -15,7 +15,7 @@ How many members we have?
 
 
 
->  ![somerui](/img/somerui.png#pic_center)
+>  ![somerui](./somerui.png#pic_center)
 >
 > <h1>somerui</h1>
 >
@@ -24,14 +24,14 @@ How many members we have?
 
 ---
 
->  ![someqi](/img/missing.png)
+>  ![someqi](./missing.png)
 > <h1>someqi</h1>
 > <p style="font-size:18px;">Team Co-founder</p>
 > <p style="font-size:14px;">Game director<br>Art Director<br>Programmer<br></p>
 
 ---
 
->  ![FA](/img/fakeanzel.png)
+>  ![FA](./fakeanzel.png)
 > <h1>FAKE_ANZEL</h1>
 > <p style="font-size:14px;">Music Director<br></p>
 
