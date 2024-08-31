@@ -35,5 +35,11 @@ How many members we have?
 > <h1>FAKE_ANZEL</h1>
 > <p style="font-size:14px;">Music Director<br></p>
 
+---
+
+>  ![Nersia](./missing.png)
+> <h1>Nersia/ネルシア</h1>
+> <p style="font-size:18px;">Informal member</p>
+> <p style="font-size:14px;"><br>Art Director<br>Programmer<br></p>
 
 
