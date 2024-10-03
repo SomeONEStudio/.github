@@ -6,7 +6,6 @@ What are we doing?
 
 - We are developing games for PC, consoles, and mobile platforms.
 - We are also working on some doujin-creations of famous games, such as Minecraft, Terraria, and more.
-- Also, we are working on some open-source projects, such as our own game engine, game framework, and a big project called "Zero-Point Engine".
 
 How many members we have?
 ===
@@ -20,20 +19,18 @@ How many members we have?
 > <h1>somerui</h1>
 >
 > <p style="font-size:18px;">Team Co-founder</p>
-> <p style="font-size:14px;">Game director<br>Programmer<br></p>
 
 ---
 
 >  ![someqi](./missing.png)
 > <h1>someqi</h1>
 > <p style="font-size:18px;">Team Co-founder</p>
-> <p style="font-size:14px;">Game director<br>Art Director<br>Programmer<br></p>
+
 
 ---
 
 >  ![FA](./fakeanzel.png)
 > <h1>FAKE_ANZEL</h1>
-> <p style="font-size:14px;">Music Director<br></p>
 
 ---
 
