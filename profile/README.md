@@ -11,7 +11,7 @@ What are we doing?
 How many members we have?
 ===
 
-<h2> We have 3 members in total.</h2>
+<h2> We have 5 members in total.</h2>
 
 
 
