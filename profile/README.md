@@ -5,7 +5,7 @@ What are we doing?
 ===============
 
 - We are developing games for PC, consoles, and mobile platforms.
-- We are also working on some doujin-creations of famous games, such as Minecraft, Terraria, and more.
+- We are also working on some unofficial-creations of famous games, such as Minecraft, Terraria, and more.
 
 
 How many members we have?
