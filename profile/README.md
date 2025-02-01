@@ -21,14 +21,14 @@ How many members we have?
 >
 
 > <p style="font-size:18px;">Team Co-founder</p>
-> <p style="font-size:14px;">Game director<br>Programmer<br></p>
+> <p style="font-size:14px;">Main Director<br>Programmer<br></p>
 
 ---
 
 >  ![someqi](./missing.png)
 > <h1>someqi</h1>
 > <p style="font-size:18px;">Team Co-founder</p>
-> <p style="font-size:14px;">Game director<br>Programmer<br></p>
+> <p style="font-size:14px;">Main Director<br>Programmer<br></p>
 
 ---
 
@@ -46,6 +46,6 @@ How many members we have?
 
 >  ![*p](./missing.png)
 > <h1>*p</h1>
-> <p style="font-size:14px;">Programmer</p>
+> <p style="font-size:14px;">Graphic Designer</p>
 
 ---
