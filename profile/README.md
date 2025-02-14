@@ -1,4 +1,4 @@
-![SomeONEStudioLogo](./sos.png)
+![SomeONEStudioLogo](./soslogo.png)
 <center><h2>We are SomeONE Studio,a indie-game development team.</center>
 
 What are we doing?
@@ -38,9 +38,9 @@ How many members we have?
 
 ---
 
->  ![Nersia](./missing.png)
-> <h1>Nersia(ネルシア)</h1>
-> <p style="font-size:14px;">Art Director<br></p>
+>  ![Vane](./missing.png)
+> <h1>Vane</h1>
+> <p style="font-size:14px;">Front-end development<br></p>
 
 ---
 
