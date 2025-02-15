@@ -40,7 +40,7 @@ How many members we have?
 
 >  ![Vane](./missing.png)
 > <h1>Vane</h1>
-> <p style="font-size:14px;">Front-end development<br></p>
+> <p style="font-size:14px;"><br></p>
 
 ---
 
