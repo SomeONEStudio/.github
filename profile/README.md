@@ -7,6 +7,9 @@
 <div align="center">
 <img src="https://img.shields.io/badge/team_size-5-blue" />
 <img src="https://img.shields.io/badge/team_status-active-green" />
+<a href="https://github.com/SomeONEStudio" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-black" alt="image" width="auto" height="auto">
+</a>
 </div>
 
 <h2>What are we doing?</h2>
@@ -26,7 +29,7 @@
 
 
 > <img src="./lkxn.png" alt="lkxn" width="100" height="auto" align="center">
-> <h1>LKXN</h1>
+> <h1>LKXN a.k.a. someqi</h1>
 > <p style="font-size:18px;">Team Co-founder</p>
 > <p style="font-size:14px;">Main Director</p>
 
@@ -54,6 +57,10 @@
 > <p style="font-size:14px;">Graphic Designer</p>
 
 ---
+
+<div align="center">
+    <iframe src="https://discord.com/widget?id=1341423829746057246&theme=dark" width="350" height="500" allowtransparency="true" frameborder="0" sandbox="allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts"></iframe>
+</div>
 
 <div align="center" >
 
