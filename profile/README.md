@@ -17,7 +17,7 @@
 <h2>Our Staff Number in Total are <strong>5</strong></h2>
 
 
-> <img src="./somerui.png" alt="image" width="100" height="auto" align="center">
+> <img src="./somerui.png" alt="somerui" width="100" height="auto" align="center">
 > <h1>somerui</h1>
 > <p style="font-size:18px;">Team Co-founder</p>
 > <p style="font-size:14px;">Main Director, Full-stack Engineer</p>
@@ -25,14 +25,14 @@
 ---
 
 
-> <img src="./missing.png" alt="image" width="100" height="auto" align="center">
-> <h1>someqi</h1>
+> <img src="./lkxn.png" alt="lkxn" width="100" height="auto" align="center">
+> <h1>LKXN</h1>
 > <p style="font-size:18px;">Team Co-founder</p>
 > <p style="font-size:14px;">Main Director</p>
 
 ---
 
-> <img src="./fakeanzel.png" alt="image" width="100" height="auto" align="center">
+> <img src="./fakeanzel.png" alt="fakeanzel" width="100" height="auto" align="center">
 > <h1>FAKE_ANZEL</h1>
 > <p style="font-size:18px;">Team Member</p>
 > <p style="font-size:14px;">Music Directo</p>
@@ -40,7 +40,7 @@
 ---
 
 
-> <img src="./missing.png" alt="image" width="100" height="auto" align="center">
+> <img src="./missing.png" alt="weathervane73" width="100" height="auto" align="center">
 > <h1>Vane</h1>
 > <p style="font-size:18px;">Team Member</p>
 > <p style="font-size:14px;">Back-end Engineer</p>
@@ -48,7 +48,7 @@
 ---
 
 
-> <img src="./missing.png" alt="image" width="100" height="auto" align="center">
+> <img src="./missing.png" alt="asteriskp" width="100" height="auto" align="center">
 > <h1>*p</h1>
 > <p style="font-size:18px;">Team Member</p>
 > <p style="font-size:14px;">Graphic Designer</p>
