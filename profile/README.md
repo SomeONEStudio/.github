@@ -28,9 +28,18 @@
 ---
 
 
-> <img src="./lkxn.png" alt="lkxn" width="100" height="auto" align="center">
-> <h1>LKXN a.k.a. someqi</h1>
+> <img src="./missing.png" alt="someqi" width="100" height="auto" align="center">
+> <h1>someqi</h1>
+> <p style="font-size:18px;">[Separated]</p>
 > <p style="font-size:18px;">Team Co-founder</p>
+> <p style="font-size:14px;">Former Main Director</p>
+
+---
+
+
+> <img src="./lkxn.png" alt="lkxn" width="100" height="auto" align="center">
+> <h1>LKXN</h1>
+> <p style="font-size:18px;">Team Member</p>
 > <p style="font-size:14px;">Main Director</p>
 
 ---
