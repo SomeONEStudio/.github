@@ -62,8 +62,9 @@
 
 > <img src="./missing.png" alt="asteriskp" width="100" height="auto" align="center">
 > <h1>*p</h1>
-> <p style="font-size:18px;">Team Member</p>
-> <p style="font-size:14px;">Graphic Designer</p>
+> <p style="font-size:18px;">[Separated]</p>
+> <p style="font-size:18px;">Former Team Member</p>
+> <p style="font-size:14px;">Former Graphic Designer</p>
 
 ---
 
