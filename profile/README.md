@@ -47,7 +47,7 @@
 > <img src="./fakeanzel.png" alt="fakeanzel" width="100" height="auto" align="center">
 > <h1>FAKE_ANZEL</h1>
 > <p style="font-size:18px;">Team Member</p>
-> <p style="font-size:14px;">Music Directo</p>
+> <p style="font-size:14px;">Music Director</p>
 
 ---
 
