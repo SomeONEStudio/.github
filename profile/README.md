@@ -1,6 +1,6 @@
 
 <div align="center">
-<img src="https://raw.githubusercontent.com/SomeONEStudio/.github/main/profile/soslogo.svg" alt="soslogo" style="max-width: 100%;">
+<img src="https://raw.githubusercontent.com/SomeONEStudio/.github/main/profile/soslogo.svg" alt="soslogo" width="200" height="auto">
 
 
 <h1>SomeONE Studio<br><p style="font-size:14px;">A indie game development team</p></h1>
