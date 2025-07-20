@@ -53,7 +53,7 @@
 
 ---
 
-<p align="center">We have other members we have not shown them at their request.</p>
+<p align="center">We have other members not shown them due to their request.</p>
 
 <div align="center">
 
