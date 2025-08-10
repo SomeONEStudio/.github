@@ -57,6 +57,11 @@
 
 <div align="center">
 
+Donate us
+```
+bc1qq93twn34lsrjufnvtlgwnsz73pzsc50a9ha4vj
+```
+
 <a href="https://bsky.app/profile/someonestudio.bsky.social" target="_blank">
 <img src="https://img.shields.io/badge/blue-sky-blue" alt="BlueSky">
 </a>
