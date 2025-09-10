@@ -70,6 +70,7 @@ bc1qq93twn34lsrjufnvtlgwnsz73pzsc50a9ha4vj
 > If a new address is published, it **must** be announced with a PGP signed message by key ID **F6ECF43763244053DDBF7455F6C20A91ED817347**.
 
 For example:
+This message should sign by "F6ECF43763244053DDBF7455F6C20A91ED817347" ,SomeONE Studio"someone_studio@outlook.com"
 ```
 -----BEGIN PGP SIGNED MESSAGE-----
 Hash: SHA512
@@ -83,7 +84,6 @@ R07NAQCHf7b8sKigvEt6xpD0FLVKNZWOHvYOnMgXOC3MH4EY9gEAwHvmf4mrTZrR
 EIUpSSs1gt7L/z8IDxrC1X5BEZq3YwA=
 =cXS2
 -----END PGP SIGNATURE-----
-This message is signed by "F6ECF43763244053DDBF7455F6C20A91ED817347" ,SomeONE Studio <someone_studio@outlook.com>
 ```
 <a href="https://bsky.app/profile/someonestudio.bsky.social" target="_blank">
 <img src="https://img.shields.io/badge/blue-sky-blue" alt="BlueSky">
