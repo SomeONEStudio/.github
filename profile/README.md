@@ -48,13 +48,6 @@
 
 ---
 
-> <img src="https://raw.githubusercontent.com/SomeONEStudio/.github/main/profile/missing.svg" alt="Vane" width="200" align="center">
-> 
-> <h1>Vane<p style="font-size:18px;">Team Member</p></h1>
-> <p style="font-size:14px;">Back-end Engineer</p>
-
----
-
 <p align="center">We have other members but not shown them due to their request.</p>
 
 
