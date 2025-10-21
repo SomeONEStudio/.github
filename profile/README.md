@@ -17,7 +17,7 @@
 - 🎮 We are developing games on multi-platform.
 - 🔨 We are working on some unofficial-creations of famous games, such as Minecraft, Terraria.
 
-<h2>Our Core Staff Number in Total are <strong>4</strong>:</h2>
+<h2>Our Core Staff Number in Total are <strong>3</strong>:</h2>
 
 ---
 
