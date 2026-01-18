@@ -64,7 +64,7 @@ bc1qt2ger00xwecd3llw49plupzmrkllnd86qg78p9722xjaq02xdrfsuzv22j(2025/10/21, curre
 > Our BTC address may change frequently.  
 > If a new address is published, it **must** be announced with a PGP signed message by key ID **F6ECF43763244053DDBF7455F6C20A91ED817347**.
 
-<a href="https://bsky.app/profile/someonestudio.bsky.social" target="_blank">
+<a href="https://bsky.app/profile/did:plc:xsjk5mrqxnerfwrjw25von56" target="_blank">
 <img src="https://img.shields.io/badge/blue-sky-blue" alt="BlueSky">
 </a>
 <a href="mailto:someone_studio@outlook.com" target="_blank">
